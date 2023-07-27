@@ -8,11 +8,11 @@
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://marolix.com</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>MAROLIX</name>
+		<url>http://marolix.com/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
@@ -40,15 +40,15 @@
 		mvn scm:update -->
 	<!--
 	<scm>
-		<connection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</connection>
-		<developerConnection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</developerConnection>
+		<connection>scm:git:https://github.com/bvenkydevops/maven-standalone-application</connection>
+		<developerConnection>scm:git:https://github.com/bvenkydevops/maven-standalone-application</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application</url>
+		<url>https://github.com/bvenkydevops/maven-standalone-application</url>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application/issues</url>
+		<url>https://github.com/bvenkydevops/maven-standalone-application/issues</url>
 	</issueManagement>
 
 	-->
